@@ -73,3 +73,7 @@ Repository（データアクセス）
   例）POST http://localhost:3000/expenses なら、expenses.json に保存される
 
 ##　　 Frontend
+- jestとstorybookによるテストの実装
+- playwrightによるE2Eテストの実装
+
+
